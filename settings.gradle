@@ -1,0 +1,2 @@
+rootProject.name = "The_Blood_Bank"
+include ':app'
